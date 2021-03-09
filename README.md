@@ -6,3 +6,5 @@
  TP3: WORD EMBEDDINGS
  
  TP4 : TOPIC DETECTION 
+ 
+Arabic Dataset is avialable her : https://www.kaggle.com/mksaad/arabic-sentiment-twitter-corpus
